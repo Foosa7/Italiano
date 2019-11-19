@@ -1,6 +1,8 @@
 ![La Svizzera cerca di attirare startup di intelligenza artificiale](https://www.swissinfo.ch/ita/dati-sanitari_la-svizzera-cerca-di-attirare-startup-di-intelligenza-artificiale/45367738)
 
-[The Swiss are in search of artificial intelligence startups](https://www.swissinfo.ch/eng/health-data-_switzerland--land-of-big-pharma--tries-to-reel-in-ai-startups/45351000)
+[Switzerland, land of big pharma, tries to reel in AI startups](https://www.swissinfo.ch/eng/health-data-_switzerland--land-of-big-pharma--tries-to-reel-in-ai-startups/45351000)
+
+The Swiss are in search of artificial intelligence startups
 
 The artificial intelligence (AI) could be a miracle for the hospitals: for very precise diagnosis, admnistrative relief 
 and more time for patient care. The Swiss are in a good position to be the leader of the AI in health care, but some factors complicate the matter.
