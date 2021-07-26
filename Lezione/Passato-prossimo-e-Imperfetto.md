@@ -11,6 +11,8 @@ A: Ieri ho mangiate una pizza. (Traduzione inglese: Yesterday I ate a pizza). E 
 * Nostro canale - Our channel
 * Caricare - Load
 * Cui - Which
+* Abbiamo - We have
+* Non dimenticati fare - Do not forget to  
 
 ## Parole Sconosciute
 * Ripassare - Review
@@ -18,3 +20,4 @@ A: Ieri ho mangiate una pizza. (Traduzione inglese: Yesterday I ate a pizza). E 
 * Sempre mettere - Always put
 * Insieme - Together 
 * Un'azione - An action
+* Scegliere tra - Choose between 
